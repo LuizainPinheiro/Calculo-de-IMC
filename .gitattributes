@@ -1,1 +1,2 @@
 VSCodeUserSetup-x64-1.97.2.exe filter=lfs diff=lfs merge=lfs -text
+Microsoft[[:space:]]VS[[:space:]]Code/Code.exe filter=lfs diff=lfs merge=lfs -text
